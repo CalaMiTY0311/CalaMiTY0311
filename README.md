@@ -44,7 +44,8 @@ Here are some ideas to get you started:
           />
     </div> 
         <p>
-            [![Solved.ac calamity0311](http://mazassumnida.wtf/api/v2/generate_badge?boj=calamity0311)](https://solved.ac/calamity0311)
+           [![Solved.ac
+            프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=calamity0311)](https://solved.ac/calamity0311)
         </p>
     </div>
     
