@@ -35,7 +35,6 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=Vercel&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon%20EC2-232F3E?style=plastic&logo=Amazon%20AWS&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
           </div>
