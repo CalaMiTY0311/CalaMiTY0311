@@ -31,8 +31,7 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
           <img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=Express&logoColor=white">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=Vercel&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon%20EC2-232F3E?style=plastic&logo=Amazon%20AWS&logoColor=white">
