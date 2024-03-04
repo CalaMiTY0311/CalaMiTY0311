@@ -16,8 +16,8 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:82f2be,100:afe3e4&height=120&text=CalaMiTY0311&animation=&fontColor=3eb18f&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 자기소개 제목만 1시간 걸렸습니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 결국 자기소개는 안하는 편 </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안이오 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 외않되 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
