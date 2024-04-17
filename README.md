@@ -20,17 +20,14 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white">
-          <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
+          <br/>
           <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
           <img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=Express&logoColor=white">
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=Vercel&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon%20EC2-232F3E?style=plastic&logo=Amazon%20AWS&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
+          <br/>
           </div>
     </div>
     <div style="text-align: left;"> 
